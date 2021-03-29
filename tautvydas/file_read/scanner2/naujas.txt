@@ -1,0 +1,4 @@
+Sveiki.
+Čia naujas failas.
+
+Jis turi būti atspausdintas terminale.

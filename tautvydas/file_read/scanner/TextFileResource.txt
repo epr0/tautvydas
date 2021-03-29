@@ -1,0 +1,8 @@
+﻿Sveiki!
+Mano vardas Tautvydas.
+Mokomes skaityti is failo.
+
+Tikriname lietuviskas raides.
+09čėįųč09ėųįgafdgsfd
+
+Kad veiktų lietuviškos raidės, failas .txt turi būti išsaugotas Encoding type: UTF-8.
